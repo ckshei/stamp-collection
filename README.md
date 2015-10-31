@@ -1,6 +1,6 @@
 Stamp Collection App
 ---
 
-# About Stamp
-Stuff about the stamp....
+# About Simon's Stamp
+Smon has been collecting stamps since 1981
 
