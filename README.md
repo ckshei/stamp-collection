@@ -1,6 +1,6 @@
 Stamp Collection App
 ---
 
-# About
+# About Stamp
 Stuff about the stamp....
 
