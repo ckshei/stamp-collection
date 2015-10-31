@@ -2,5 +2,5 @@ Stamp Collection App
 ---
 
 # About Stamp
-Stuff about the stamp....
 
+New York Times raves this is the best stamp collection of the ages!
