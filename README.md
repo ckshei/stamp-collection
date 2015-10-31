@@ -5,4 +5,4 @@ Stamp Collection App
 
 Simon has been collecting stamps since 1981.
 
-New York Times raves this is the best stamp collection of the ages!
+New York Times raves this is the best stamp collection of the ages! You won't believe it...
